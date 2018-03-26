@@ -1,4 +1,0 @@
-﻿  Particle.cpp
-c:\users\michal\source\repos\particlesystem_v0.2\particlesystem_v0.2\particle.cpp(139): warning C4305: 'argument': truncation from 'double' to 'const float'
-  ParticleSystem_v0.2.vcxproj -> C:\Users\Michal\source\repos\ParticleSystem_v0.2\Debug\ParticleSystem_v0.2.exe
-  ParticleSystem_v0.2.vcxproj -> C:\Users\Michal\source\repos\ParticleSystem_v0.2\Debug\ParticleSystem_v0.2.pdb (Partial PDB)
