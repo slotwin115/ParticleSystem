@@ -1,0 +1,12 @@
+
+
+
+
+
+
+
+
+
+>>> add time dependency to update functions: ParticleSystem and Particle.
+>>> disable framerate limit.
+>>>change namespace namo from pf to ps.
